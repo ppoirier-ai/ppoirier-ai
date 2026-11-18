@@ -8,4 +8,4 @@ AI automation systems for small and mid-sized businesses.
 
 **Services:** AI workflow implementation projects from $6.5K. Exit preparation and balance-sheet optimization.
 
-Founded by Patrick Poirier - 29 years, 6 startups, now running a solo AI-agent operating company.
+Founded by Patrick Poirier - 29 years across 6 startups, now running a solo AI-agent operating company.
